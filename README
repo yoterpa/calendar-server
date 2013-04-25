@@ -1,0 +1,6 @@
+How to use:
+1. To compile type make in your terminal.
+2  To start the server type ./server <port> <mode>
+3  To start the client type ./client <serverip> <port> <username> <command> <date> <starttime> <endtime> <eventname>
+
+NOTE: Login as root if permission denied.
